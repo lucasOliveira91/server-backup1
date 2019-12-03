@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository-metadata>
+  <version>1.0.0</version>
+  <url>http://jaspersoft.artifactoryonline.com/jaspersoft/third-party-ce-artifacts/</url>
+  <id>jasper-third-party</id>
+  <name>jasper Third Party</name>
+  <layout>maven2</layout>
+  <policy>release</policy>
+  <localUrl>@rootUrl@/content/repositories/jasper-third-party</localUrl>
+</repository-metadata>

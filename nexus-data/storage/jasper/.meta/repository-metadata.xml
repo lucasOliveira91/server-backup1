@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository-metadata>
+  <version>1.0.0</version>
+  <url>http://jasperreports.sourceforge.net/maven2/</url>
+  <id>jasper</id>
+  <name>Jasper</name>
+  <layout>maven2</layout>
+  <policy>snapshot</policy>
+  <localUrl>@rootUrl@/content/repositories/jasper</localUrl>
+</repository-metadata>

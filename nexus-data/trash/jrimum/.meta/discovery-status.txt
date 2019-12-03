@@ -1,0 +1,6 @@
+#Nexus discovery status
+#Wed Nov 20 18:59:18 UTC 2019
+lastDiscoveryStrategy=scrape
+lastDiscoveryStatus=UNSUCCESSFUL
+lastDiscoveryTimestamp=1574276358327
+lastDiscoveryMessage=Remote recognized as Sonatype Nexus, but not scraping it\: Remote is a group repository.

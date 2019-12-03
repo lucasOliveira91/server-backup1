@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>br.org.postalis</groupId>
+  <artifactId>web-support-core</artifactId>
+  <version>1.0.7-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20191127.204817</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <lastUpdated>20191127204817</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.7-20191127.204808-1</value>
+        <updated>20191127204817</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.7-20191127.204808-1</value>
+        <updated>20191127204817</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

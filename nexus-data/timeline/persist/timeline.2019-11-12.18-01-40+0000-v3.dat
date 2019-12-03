@@ -1,0 +1,16 @@
+™¦ùœ†æ-SYSTEMCONFIG"$
+date2019-11-12 18:01:40.262+0000"
+actionCONFIG"H
+message=Registered repository group Public Repositories (ID=public) .~Øûœ†æ-SYSTEMBOOT"$
+date2019-11-12 18:01:40.568+0000"
+actionBOOT"1
+message&Started Nexus (version 2.14.15-01 OSS)î¬ıœ†æ-SYSTEMREINDEX"$
+date2019-11-12 18:01:40.779+0000"
+actionREINDEX"š
+messageUpdating repository index "Public Repositories" from path null and below. : Process started on Tue Nov 12 18:01:40 UTC 2019, not yet finished.’ø€†æ-SYSTEMREINDEX"$
+date2019-11-12 18:01:41.239+0000"
+actionREINDEX"¾
+message²Updating repository index "Public Repositories" from path null and below. : Process started on Tue Nov 12 18:01:40 UTC 2019, finished successfully on Tue Nov 12 18:01:41 UTC 2019±Ÿ†æ-SYSTEMCONFIG"$
+date2019-11-12 18:01:41.279+0000"
+actionCONFIG"`
+messageUNexus server configuration was changed: [Scheduled Tasks], change was made by [*TASK]
